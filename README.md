@@ -43,7 +43,6 @@ Your default browser should launch a new tab displaying the movie trailer websit
 
 The following features were implemented to gain an extra credit from Udacity:
 
-* Added the storyline of the movie to the website.
 * Changed the text font family to Imapct 
 * Changed the background and text colour to create a yify theme for the website.
 * Changed the video size into 720p
